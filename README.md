@@ -26,5 +26,5 @@ Days for model => list a day for the regression model. How many failures we can 
 
 COGNITIVE SERVICES
 
-reviews.csv => file to be used for language analysis. Source: customers reviews for Airbnb in Copenhagen. http://insideairbnb.com/get-the-data/![image](https://user-images.githubusercontent.com/115618050/235734983-bbe856d9-a14d-4d40-94e8-79183364b6ce.png)
+reviews.csv => file to be used for language analysis. Source: customers reviews for Airbnb in Copenhagen. http://insideairbnb.com/get-the-data/
 Reduced as number of rows, cleaned and rectified.
