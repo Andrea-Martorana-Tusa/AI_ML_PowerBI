@@ -5,7 +5,9 @@ You can reuse the material for testing on your own.
 
 SQLDay_2023_AI_ML_Power BI.pdf => slidedeck
 
+
 AUTOML
+
 --Binary classification
 UCI_German_Credit_Card_Data.csv => training and testing data for a binary classification model. Source: public dataset from the University of California, Irvine 54dad6c1-fd5a-4227-9829-aa6d3c463ebd
 
@@ -18,3 +20,6 @@ TotFailuresDays.csv. => semplified version of the above dataset for calculating 
 
 Product list for model.csv => list of products to be passed to the model. Expected output: the average number of days for a product to fail.
 Days for model => list a day for the regression model. How many failures we can expect for different product ages.
+
+
+COGNITIVE SERVICES
