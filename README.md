@@ -10,7 +10,7 @@ AUTOML
 
 --Binary classification
 
-UCI_German_Credit_Card_Data.csv => training and testing data for a binary classification model. Source: public dataset from the University of California, Irvine 54dad6c1-fd5a-4227-9829-aa6d3c463ebd
+UCI_German_Credit_Card_Data.csv => training and testing data for a binary classification model. Source: public dataset from the University of California, Irvine http://archive.ics.uci.edu/ml/datasets/Statlog+%28German+Credit+Data%29
 
 UCI_credit_risk.csv => data to pass to the model for credit risk prediction. Source: original dataset prepared for the session
 
